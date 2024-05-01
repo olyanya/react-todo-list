@@ -4,9 +4,9 @@ This project is a simple to-do list application built using React. It allows use
 
 ## Features
 
- ✅ Add new tasks to the list
- ✅ Edit existing tasks
- ✅ Delete tasks
+ ✅ Add new tasks to the list |
+ ✅ Edit existing tasks |
+ ✅ Delete tasks 
 
 ## Technologies Used
 
